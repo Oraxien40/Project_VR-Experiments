@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+VR_Experiments/Saved/Logs/VR_Experiments.log
+VR_Experiments/Saved/Config/CrashReportClient/UECC-Windows-B5AA13F54CF11D205642A2B7229956C5/CrashReportClient.ini
+VR_Experiments/Saved/Config/CrashReportClient/UECC-Windows-9445E7EA441FCFAE2C29F5A9A14FFEC7/CrashReportClient.ini
+/VR_Experiments/Saved/Logs
+/VR_Experiments/Saved/Logs
