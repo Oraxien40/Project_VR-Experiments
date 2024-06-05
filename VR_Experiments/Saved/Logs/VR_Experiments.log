@@ -2375,3 +2375,459 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.05-18.36.07:738][956]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRPawn135CD86549C3D94B294EBEA7F1DFFF1B.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/VRPawn.uasset'
 [2024.06.05-18.36.07:748][956]AssetCheck: New page: Asset Save: VRPawn
 [2024.06.05-18.36.07:748][956]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.06.05-18.43.25:145][877]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.25:145][877]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.25:147][877]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.25:147][877]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.25:149][877]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.25:149][877]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.25:150][877]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.25:151][877]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.33:238][708]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.33:238][708]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.33:240][708]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.33:240][708]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.33:242][708]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.33:242][708]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.33:243][708]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.33:243][708]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:039][908]BlueprintLog: New page: Compile VRPawn
+[2024.06.05-18.43.35:084][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:084][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:085][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:085][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:124][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.06.05-18.43.35:130][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:130][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:132][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:132][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:134][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:134][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:139][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:139][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:140][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:141][908]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.35:597][940]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.06.05-18.43.35:597][940]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRPawnC8BCC19248426416E780FBA3FD8A107D.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.06.05-18.43.35:612][940]AssetCheck: New page: Asset Save: VRPawn
+[2024.06.05-18.43.35:612][940]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.06.05-18.43.37:398][137]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.06.05-18.43.37:403][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-18.43.37:403][137]PIE: New page: PIE session: VRTemplateMap (6 Jun 2024, 2:43:37 pm)
+[2024.06.05-18.43.37:403][137]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.43.37:409][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005603s)
+[2024.06.05-18.43.37:409][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005672s)
+[2024.06.05-18.43.37:409][137]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.05-18.43.37:409][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-18.43.37:409][137]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.06.05-18.43.37:409][137]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2024.06.05-18.43.37:432][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.06.05-18.43.37:433][137]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.06.05-18.43.37:433][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-18.43.37:433][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-18.43.37:433][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-18.43.37:433][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-18.43.37:433][137]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.05-18.43.37:433][137]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.05-18.43.37:433][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.05-18.43.37:433][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-18.43.37:433][137]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.06.05-18.43.37:433][137]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.06.05-18.43.37:433][137]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-18.43.37:436][137]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-18.43.37:453][137]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.06.05-18.43.37:454][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-18.43.37:454][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-18.43.37:454][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-18.43.37:454][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.06.05-18.43.37:454][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.06.05-18.43.37:456][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.06.05-18.43.37:456][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.06.05-18.43.37:456][137]LogInit: FAudioDevice initialized.
+[2024.06.05-18.43.37:456][137]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2024.06.05-18.43.37:467][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-18.43.37:467][137]LogViewport: Scene viewport resized to 5592x3300, mode Windowed.
+[2024.06.05-18.43.37:528][137]LogLoad: Game class is 'VRGameMode_C'
+[2024.06.05-18.43.37:530][137]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.06.06-04.43.37
+[2024.06.05-18.43.37:530][137]LogWorld: Bringing up level for play took: 0.001716
+[2024.06.05-18.43.37:532][137]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.06.05-18.43.37:532][137]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.06.05-18.43.37:532][137]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.37:533][137]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.43.37:533][137]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.43.37:534][137]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.43.37:535][137]Cmd: vr.PixelDensity 1.0
+[2024.06.05-18.43.37:535][137]vr.PixelDensity = "1"
+[2024.06.05-18.43.37:540][137]PIE: Server logged in
+[2024.06.05-18.43.37:542][137]PIE: Play in editor total start time 0.139 seconds.
+[2024.06.05-18.43.37:571][137]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.06.05-18.43.59:862][143]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.44.08:647][934]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.44.12:985][324]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.44.17:814][759]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.44.19:052][870]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.44.21:436][ 85]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.44.24:320][344]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.44.24:320][344]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.44.24:320][344]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.44.24:321][344]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-18.44.24:321][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.44.24:376][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-18.44.24:377][344]LogSlate: Slate User Unregistered.  User Index 8
+[2024.06.05-18.44.24:377][344]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.44.24:378][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.06.05-18.44.24:379][344]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.44.24:385][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005240s)
+[2024.06.05-18.44.24:385][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005327s)
+[2024.06.05-18.44.24:385][344]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2024.06.05-18.44.24:385][344]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.05-18.44.24:385][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-18.44.24:386][344]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.06.05-18.44.24:386][344]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2024.06.05-18.44.24:386][344]LogLoad: Game class is 'VRGameMode_C'
+[2024.06.05-18.44.24:387][344]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.06.06-04.44.24
+[2024.06.05-18.44.24:387][344]LogWorld: Bringing up level for play took: 0.001167
+[2024.06.05-18.44.24:388][344]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.06.05-18.44.24:388][344]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.44.24:388][344]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.44.24:389][344]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.44.24:390][344]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.44.24:390][344]Cmd: vr.PixelDensity 1.0
+[2024.06.05-18.44.24:390][344]vr.PixelDensity = "1"
+[2024.06.05-18.44.24:391][344]LogLoad: Took 0.070282 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2024.06.05-18.44.44:286][134]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.44.46:170][304]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.44.56:743][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-18.44.56:755][255]LogViewport: Scene viewport resized to 1918x2037, mode Windowed.
+[2024.06.05-18.44.56:782][255]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.44.56:905][255]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.06.05-18.44.56:928][255]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-18.44.56:928][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.44.56:937][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-18.44.56:941][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.44.56:961][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-18.44.56:961][255]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.06.05-18.44.56:961][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.05-18.44.56:962][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.05-18.44.56:967][255]LogSlate: Slate User Unregistered.  User Index 8
+[2024.06.05-18.44.56:967][255]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.44.56:968][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.06.05-18.44.56:984][256]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.06.05-18.46.45:059][893]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.45:059][893]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.45:061][893]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.45:061][893]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.45:063][893]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.45:064][893]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.45:065][893]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.45:065][893]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:320][943]BlueprintLog: New page: Compile VRPawn
+[2024.06.05-18.46.47:365][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:365][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:366][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:366][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:405][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.05-18.46.47:410][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:410][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:412][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:412][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:414][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:414][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:419][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:419][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:420][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.47:421][943]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.48:339][962]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.06.05-18.46.48:339][962]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRPawn82D365EA418CEC50BDE00590DCF98BC1.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.06.05-18.46.48:349][962]AssetCheck: New page: Asset Save: VRPawn
+[2024.06.05-18.46.48:349][962]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.06.05-18.46.58:246][183]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.06.05-18.46.58:251][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-18.46.58:251][183]PIE: New page: PIE session: VRTemplateMap (6 Jun 2024, 2:46:58 pm)
+[2024.06.05-18.46.58:252][183]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.46.58:258][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005971s)
+[2024.06.05-18.46.58:258][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006047s)
+[2024.06.05-18.46.58:258][183]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.05-18.46.58:258][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-18.46.58:258][183]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.06.05-18.46.58:258][183]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2024.06.05-18.46.58:280][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.06.05-18.46.58:282][183]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.06.05-18.46.58:282][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-18.46.58:282][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-18.46.58:282][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-18.46.58:282][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-18.46.58:282][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.05-18.46.58:282][183]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.05-18.46.58:282][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.05-18.46.58:282][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-18.46.58:282][183]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.06.05-18.46.58:282][183]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.06.05-18.46.58:282][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-18.46.58:283][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-18.46.58:300][183]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.06.05-18.46.58:301][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-18.46.58:301][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-18.46.58:301][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-18.46.58:301][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.06.05-18.46.58:301][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.06.05-18.46.58:303][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.06.05-18.46.58:303][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.06.05-18.46.58:303][183]LogInit: FAudioDevice initialized.
+[2024.06.05-18.46.58:303][183]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2024.06.05-18.46.58:315][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-18.46.58:315][183]LogViewport: Scene viewport resized to 5592x3300, mode Windowed.
+[2024.06.05-18.46.58:371][183]LogLoad: Game class is 'VRGameMode_C'
+[2024.06.05-18.46.58:373][183]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.06.06-04.46.58
+[2024.06.05-18.46.58:373][183]LogWorld: Bringing up level for play took: 0.001903
+[2024.06.05-18.46.58:375][183]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.06.05-18.46.58:376][183]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.06.05-18.46.58:376][183]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.58:376][183]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.46.58:376][183]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.46.58:378][183]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.46.58:379][183]Cmd: vr.PixelDensity 1.0
+[2024.06.05-18.46.58:379][183]vr.PixelDensity = "1"
+[2024.06.05-18.46.58:383][183]PIE: Server logged in
+[2024.06.05-18.46.58:387][183]PIE: Play in editor total start time 0.136 seconds.
+[2024.06.05-18.46.58:411][183]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.06.05-18.47.10:289][246]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.47.11:968][397]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.47.21:728][272]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.47.21:728][272]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.47.21:728][272]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.47.21:729][272]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-18.47.21:729][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.47.21:775][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-18.47.21:776][272]LogSlate: Slate User Unregistered.  User Index 8
+[2024.06.05-18.47.21:776][272]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.47.21:777][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.06.05-18.47.21:778][272]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.47.21:784][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005503s)
+[2024.06.05-18.47.21:784][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005592s)
+[2024.06.05-18.47.21:784][272]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2024.06.05-18.47.21:784][272]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.05-18.47.21:784][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-18.47.21:785][272]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.06.05-18.47.21:785][272]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2024.06.05-18.47.21:785][272]LogLoad: Game class is 'VRGameMode_C'
+[2024.06.05-18.47.21:786][272]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.06.06-04.47.21
+[2024.06.05-18.47.21:786][272]LogWorld: Bringing up level for play took: 0.001139
+[2024.06.05-18.47.21:787][272]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.06.05-18.47.21:787][272]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.47.21:787][272]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.47.21:787][272]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.47.21:789][272]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.47.21:790][272]Cmd: vr.PixelDensity 1.0
+[2024.06.05-18.47.21:790][272]vr.PixelDensity = "1"
+[2024.06.05-18.47.21:790][272]LogLoad: Took 0.061420 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2024.06.05-18.47.22:546][341]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.47.35:059][466]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.47.36:628][607]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.47.55:536][309]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.48.04:341][101]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.48.24:004][871]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.48.25:414][998]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.48.25:414][998]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.48.25:414][998]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.48.25:415][998]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-18.48.25:415][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.48.25:457][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-18.48.25:458][998]LogSlate: Slate User Unregistered.  User Index 8
+[2024.06.05-18.48.25:458][998]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.48.25:459][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.06.05-18.48.25:460][998]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.48.25:465][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005104s)
+[2024.06.05-18.48.25:465][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005179s)
+[2024.06.05-18.48.25:465][998]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2024.06.05-18.48.25:465][998]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.05-18.48.25:465][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-18.48.25:466][998]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.06.05-18.48.25:466][998]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2024.06.05-18.48.25:466][998]LogLoad: Game class is 'VRGameMode_C'
+[2024.06.05-18.48.25:467][998]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.06.06-04.48.25
+[2024.06.05-18.48.25:467][998]LogWorld: Bringing up level for play took: 0.001186
+[2024.06.05-18.48.25:468][998]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.06.05-18.48.25:468][998]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.48.25:468][998]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.48.25:469][998]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.48.25:470][998]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.48.25:471][998]Cmd: vr.PixelDensity 1.0
+[2024.06.05-18.48.25:471][998]vr.PixelDensity = "1"
+[2024.06.05-18.48.25:471][998]LogLoad: Took 0.056103 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2024.06.05-18.48.33:410][713]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.48.55:551][706]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.49.04:556][516]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.49.06:209][665]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.49.07:599][790]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.49.07:599][790]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.49.07:599][790]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.49.07:600][790]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-18.49.07:600][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.49.07:659][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-18.49.07:660][790]LogSlate: Slate User Unregistered.  User Index 8
+[2024.06.05-18.49.07:660][790]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.49.07:661][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.06.05-18.49.07:662][790]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.49.07:667][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005211s)
+[2024.06.05-18.49.07:668][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005288s)
+[2024.06.05-18.49.07:668][790]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2024.06.05-18.49.07:668][790]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.05-18.49.07:668][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-18.49.07:668][790]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.06.05-18.49.07:668][790]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2024.06.05-18.49.07:668][790]LogLoad: Game class is 'VRGameMode_C'
+[2024.06.05-18.49.07:669][790]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.06.06-04.49.07
+[2024.06.05-18.49.07:669][790]LogWorld: Bringing up level for play took: 0.001278
+[2024.06.05-18.49.07:670][790]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.06.05-18.49.07:670][790]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.07:670][790]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.07:671][790]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.49.07:672][790]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.49.07:673][790]Cmd: vr.PixelDensity 1.0
+[2024.06.05-18.49.07:673][790]vr.PixelDensity = "1"
+[2024.06.05-18.49.07:673][790]LogLoad: Took 0.074176 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2024.06.05-18.49.27:689][592]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.49.30:775][870]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.49.32:077][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-18.49.32:089][987]LogViewport: Scene viewport resized to 1918x2037, mode Windowed.
+[2024.06.05-18.49.32:117][987]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.49.32:253][987]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.06.05-18.49.32:280][987]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-18.49.32:280][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.49.32:292][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-18.49.32:295][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.49.32:316][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-18.49.32:316][987]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.06.05-18.49.32:316][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.05-18.49.32:317][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.05-18.49.32:322][987]LogSlate: Slate User Unregistered.  User Index 8
+[2024.06.05-18.49.32:322][987]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.49.32:324][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.06.05-18.49.32:343][988]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.06.05-18.49.40:265][164]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.40:265][164]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.40:267][164]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.40:267][164]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.40:269][164]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.40:269][164]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.40:271][164]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.40:271][164]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.41:930][201]BlueprintLog: New page: Compile VRPawn
+[2024.06.05-18.49.41:974][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.41:974][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.41:975][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.41:975][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:010][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.05-18.49.42:015][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:015][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:017][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:017][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:018][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:019][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:024][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:024][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:025][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:026][201]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.42:752][213]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.06.05-18.49.42:752][213]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRPawn0D6447CF46E7F7B1C0DA54BD92DC9F6F.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.06.05-18.49.42:762][213]AssetCheck: New page: Asset Save: VRPawn
+[2024.06.05-18.49.42:762][213]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.06.05-18.49.45:743][281]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.06.05-18.49.45:749][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-18.49.45:749][281]PIE: New page: PIE session: VRTemplateMap (6 Jun 2024, 2:49:45 pm)
+[2024.06.05-18.49.45:749][281]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.49.45:755][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005649s)
+[2024.06.05-18.49.45:755][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005716s)
+[2024.06.05-18.49.45:755][281]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.05-18.49.45:755][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-18.49.45:755][281]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.06.05-18.49.45:756][281]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2024.06.05-18.49.45:777][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.06.05-18.49.45:779][281]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.06.05-18.49.45:779][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-18.49.45:779][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-18.49.45:779][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-18.49.45:779][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-18.49.45:779][281]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.05-18.49.45:779][281]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.05-18.49.45:779][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.05-18.49.45:779][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-18.49.45:779][281]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.06.05-18.49.45:779][281]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.06.05-18.49.45:779][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-18.49.45:781][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-18.49.45:798][281]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.06.05-18.49.45:798][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-18.49.45:798][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-18.49.45:798][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-18.49.45:799][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.06.05-18.49.45:799][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.06.05-18.49.45:800][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.06.05-18.49.45:800][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.06.05-18.49.45:800][281]LogInit: FAudioDevice initialized.
+[2024.06.05-18.49.45:800][281]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2024.06.05-18.49.45:811][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-18.49.45:811][281]LogViewport: Scene viewport resized to 5592x3300, mode Windowed.
+[2024.06.05-18.49.45:880][281]LogLoad: Game class is 'VRGameMode_C'
+[2024.06.05-18.49.45:882][281]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.06.06-04.49.45
+[2024.06.05-18.49.45:882][281]LogWorld: Bringing up level for play took: 0.001843
+[2024.06.05-18.49.45:884][281]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.06.05-18.49.45:885][281]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.06.05-18.49.45:885][281]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.45:885][281]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.49.45:885][281]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.49.45:887][281]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.49.45:887][281]Cmd: vr.PixelDensity 1.0
+[2024.06.05-18.49.45:887][281]vr.PixelDensity = "1"
+[2024.06.05-18.49.45:892][281]PIE: Server logged in
+[2024.06.05-18.49.45:896][281]PIE: Play in editor total start time 0.147 seconds.
+[2024.06.05-18.49.45:921][281]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.06.05-18.49.49:635][611]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.49.53:204][931]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.52.16:319][807]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.52.16:319][807]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.06.05-18.52.16:319][807]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.52.16:320][807]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-18.52.16:320][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.52.16:367][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-18.52.16:368][807]LogSlate: Slate User Unregistered.  User Index 8
+[2024.06.05-18.52.16:368][807]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.52.16:369][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.06.05-18.52.16:370][807]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.52.16:375][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005351s)
+[2024.06.05-18.52.16:375][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005427s)
+[2024.06.05-18.52.16:375][807]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2024.06.05-18.52.16:376][807]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.05-18.52.16:376][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-18.52.16:376][807]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.06.05-18.52.16:376][807]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2024.06.05-18.52.16:376][807]LogLoad: Game class is 'VRGameMode_C'
+[2024.06.05-18.52.16:377][807]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.06.06-04.52.16
+[2024.06.05-18.52.16:378][807]LogWorld: Bringing up level for play took: 0.001164
+[2024.06.05-18.52.16:378][807]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.06.05-18.52.16:378][807]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.52.16:378][807]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-18.52.16:379][807]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.52.16:380][807]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.52.16:381][807]Cmd: vr.PixelDensity 1.0
+[2024.06.05-18.52.16:381][807]vr.PixelDensity = "1"
+[2024.06.05-18.52.16:381][807]LogLoad: Took 0.062314 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap)
+[2024.06.05-18.52.26:141][686]LogCore: Display: AppLifetime: Application will enter background
+[2024.06.05-18.52.31:015][125]LogCore: Display: AppLifetime: Application has entered foreground
+[2024.06.05-18.52.32:305][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-18.52.32:318][241]LogViewport: Scene viewport resized to 1918x2037, mode Windowed.
+[2024.06.05-18.52.32:353][241]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.06.05-18.52.32:461][241]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.06.05-18.52.32:497][241]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-18.52.32:497][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.52.32:508][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-18.52.32:511][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-18.52.32:533][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-18.52.32:533][241]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.06.05-18.52.32:533][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.05-18.52.32:535][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.05-18.52.32:540][241]LogSlate: Slate User Unregistered.  User Index 8
+[2024.06.05-18.52.32:540][241]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.06.05-18.52.32:541][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.06.05-18.52.32:560][242]LogPlayLevel: Display: Destroying online subsystem :Context_17
