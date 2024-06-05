@@ -97,17 +97,6 @@
 				},
 				{
 					"mode": "trigger",
-					"path": "/user/hand/left/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/TriggerAxisLeft axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
 					"path": "/user/hand/right/input/trigger",
 					"inputs":
 					{
@@ -136,6 +125,17 @@
 						"position":
 						{
 							"output": "/actions/main/in/MovementAxisRight_X,MovementAxisRight_Y X Y_axis2d"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"pull":
+						{
+							"output": "/actions/main/in/TriggerAxisLeft axis"
 						}
 					}
 				}
@@ -173,5 +173,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "VR_Experiments-20979098"
 }
