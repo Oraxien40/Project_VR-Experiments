@@ -4045,3 +4045,67 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.05-05.05.50:859][495]LogSlate: Window 'VRPawn' being destroyed
 [2024.06.05-05.05.50:870][495]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2024.06.05-05.05.50:871][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-05.11.34:858][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.06.05-05.11.34:859][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.05-05.11.35:299][ 30]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.11.35:299][ 30]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.31:390][940]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.31:390][940]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.31:392][940]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.31:392][940]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.47:693][703]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.47:693][703]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.47:694][703]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.47:695][703]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.51:201][ 71]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.51:202][ 71]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.51:203][ 71]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.51:203][ 71]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.54:294][372]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.54:294][372]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.54:295][372]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.54:296][372]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.57:326][692]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.57:326][692]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.57:328][692]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.42.57:328][692]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.03:277][346]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.03:277][346]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.03:278][346]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.03:279][346]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.07:413][765]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.07:413][765]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.07:415][765]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.07:416][765]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.11:486][176]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.11:487][176]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.11:488][176]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.11:489][176]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.14:623][486]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.14:623][486]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.14:624][486]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.14:625][486]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.19:511][952]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.19:512][952]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.19:513][952]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.19:513][952]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.30:979][109]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.06.05-05.43.30:979][109]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRPawn08D0D74E4E494D42B5E83FA91E8B6C29.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.06.05-05.43.30:999][109]AssetCheck: New page: Asset Save: VRPawn
+[2024.06.05-05.43.30:999][109]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.06.05-05.43.31:203][128]BlueprintLog: New page: Compile VRPawn
+[2024.06.05-05.43.31:235][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:235][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:236][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:236][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:283][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.05-05.43.31:286][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:286][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:288][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:288][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:289][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:290][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:304][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:305][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:306][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.06.05-05.43.31:306][128]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
