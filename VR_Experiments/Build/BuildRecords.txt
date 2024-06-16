@@ -1,0 +1,6 @@
+Build 0.1	Date: 16/06/24
+	Platforms: Windows
+	Binary Confiuration: Shipping	
+	playable by me: yes
+	playable by others: Unknown
+
