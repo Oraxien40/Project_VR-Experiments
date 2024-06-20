@@ -176,6 +176,10 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/RightButtonB",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d",
 			"type": "vector2"
 		},
@@ -471,6 +475,7 @@
 			"/actions/main/in/MenuToggleLeft": "MenuToggleLeft",
 			"/actions/main/in/MenuToggleRight": "MenuToggleRight",
 			"/actions/main/in/RightButtonA": "RightButtonA",
+			"/actions/main/in/RightButtonB": "RightButtonB",
 			"/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d": "MovementAxisLeft",
 			"/actions/main/in/GrabAxisLeft axis": "GrabAxisLeft",
 			"/actions/main/in/TriggerAxisRight axis": "TriggerAxisRight",
