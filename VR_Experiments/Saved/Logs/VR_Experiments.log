@@ -1782,3 +1782,761 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.07.07-00.39.27:523][236]LogFileHelpers: No new changes to save!
 [2024.07.07-00.39.27:534][236]AssetCheck: New page: Asset Save: VRTemplateMap
 [2024.07.07-00.39.27:534][236]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-00.46.24:008][433]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-00.46.24:096][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.07.07-00.46.24:678][464]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-00.46.24:678][464]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerEECAA9C54C2DEC7433BD26894E1DB05C.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-00.46.24:690][464]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-00.46.24:690][464]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-00.48.53:645][759]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-00.48.53:726][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.07-00.48.54:354][806]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-00.48.54:354][806]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerF2672F6B4724697265148B845426368E.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-00.48.54:366][806]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-00.48.54:366][806]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-00.52.51:562][132]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-00.52.51:642][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.07.07-00.52.52:107][162]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-00.52.52:107][162]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerE23997D84744839339D793BB7E6D6DF0.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-00.52.52:119][162]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-00.52.52:119][162]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-00.53.46:723][145]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Add_IntInt' [Element not found.]
+[2024.07.07-00.57.40:084][  9]LogEditorTransaction: Undo Delete current selection
+[2024.07.07-01.00.55:890][922]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.00.55:995][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.07-01.00.56:706][965]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.00.56:707][965]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer4960734246CB6A2EEEFAAAAE0D367B88.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.00.56:720][965]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.00.56:720][965]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.00.59:380][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.07.07-01.00.59:400][247]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.00.59:400][247]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap83C6FB344611DF31EA78EAB59BB9B158.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.00.59:415][247]LogFileHelpers: No new changes to save!
+[2024.07.07-01.00.59:427][247]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.00.59:428][247]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.04.41:535][963]LogEditorTransaction: Undo Move Node
+[2024.07.07-01.06.48:750][119]LogEditorTransaction: Undo Delete current selection
+[2024.07.07-01.07.41:257][598]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.07.07-01.07.47:402][123]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.07.07-01.07.47:405][123]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.07.07-01.08.47:720][792]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.08.47:731][792]LogBlueprint: Error: [AssetLog] D:\Game Projects\Unreal\Project_VR-Experiments\Project_VR-Experiments\VR_Experiments\Content\MyContent\2_Toys\BP_ToyDispencer.uasset: [Compiler] The current value of the ' New Transform ' pin is invalid: 'New Transform' in action 'Set Actor Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.07.07-01.08.47:733][792]LogClass: Warning: Type mismatch in DisplayToyTransform of BP_ToyDispencer_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2024.07.07-01.08.47:733][792]LogBlueprint: Warning: [AssetLog] D:\Game Projects\Unreal\Project_VR-Experiments\Project_VR-Experiments\VR_Experiments\Content\MyContent\2_Toys\BP_ToyDispencer.uasset: [Compiler] Can't parse default value '0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000' for  Display Toy Transform . Property: DisplayToyTransform.
+[2024.07.07-01.08.47:836][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.07.07-01.08.48:365][810]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.08.48:366][810]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer5AF041824F60393E43238A8FACA20A60.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.08.48:377][810]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.08.48:377][810]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.09.17:231][872]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.09.17:241][872]LogBlueprint: Error: [AssetLog] D:\Game Projects\Unreal\Project_VR-Experiments\Project_VR-Experiments\VR_Experiments\Content\MyContent\2_Toys\BP_ToyDispencer.uasset: [Compiler] The current value of the ' New Transform ' pin is invalid: 'New Transform' in action 'Set Actor Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.07.07-01.09.17:321][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.07.07-01.09.52:377][712]LogEditorTransaction: Undo Delete current selection
+[2024.07.07-01.10.21:134][880]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.07-01.12.33:346][349]LogEditorTransaction: Undo Move Nodes
+[2024.07.07-01.13.35:683][136]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.13.35:765][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.07.07-01.13.36:316][153]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.13.36:316][153]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer08367589499D7CEA53F4ADB90F002CAF.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.13.36:329][153]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.13.36:329][153]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.13.38:121][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.07.07-01.13.38:143][314]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.13.38:144][314]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap8047ABA446999CE1EBFA8BA4DEFEDE65.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.13.38:158][314]LogFileHelpers: No new changes to save!
+[2024.07.07-01.13.38:169][314]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.13.38:169][314]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.13.44:882][ 73]LogDerivedDataCache: C:/Users/jorda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.348 and deleted 0 file(s) with total size 0 MiB.
+[2024.07.07-01.14.13:244][174]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.14.13:245][174]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerE3DFFF094810FD960E27BAA127F0F3B4.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.14.13:258][174]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.14.13:258][174]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.17.20:149][999]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.17.20:228][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.07.07-01.17.20:756][ 17]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.17.20:756][ 17]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer8AE2BD5C42EECA649FF03BBA7862284C.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.17.20:768][ 17]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.17.20:768][ 17]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.17.22:764][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.07.07-01.17.22:786][205]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.17.22:786][205]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap174D5D5F4FFC1FE062A4FD985AD6158C.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.17.22:800][205]LogFileHelpers: No new changes to save!
+[2024.07.07-01.17.22:811][205]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.17.22:811][205]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.17.37:319][746]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.17.37:319][746]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerB4855C434E2329B8E023279EFC32F9A5.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.17.37:331][746]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.17.37:331][746]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.17.38:964][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.07-01.17.38:983][902]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.17.38:984][902]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMapECC5C03F4DB68E33047BA3BEE40C81BB.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.17.38:997][902]LogFileHelpers: No new changes to save!
+[2024.07.07-01.17.39:008][902]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.17.39:008][902]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.18.17:430][159]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.18.17:509][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.07.07-01.18.18:027][175]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.18.18:027][175]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer7FD3738A4B5E8260BB01D89014556106.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.18.18:041][175]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.18.18:041][175]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.18.34:956][966]LogViewport: Scene viewport resized to 1287x733, mode Windowed.
+[2024.07.07-01.20.01:567][172]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.01:567][172]LogEditorTransaction: Undo Reset Rotation
+[2024.07.07-01.20.02:072][177]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.02:072][177]LogEditorTransaction: Undo Set Rotation
+[2024.07.07-01.20.02:450][193]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.02:450][193]LogEditorTransaction: Undo Set Rotation
+[2024.07.07-01.20.03:026][248]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.03:026][248]LogEditorTransaction: Undo Move Elements
+[2024.07.07-01.20.53:298][775]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.53:298][775]LogEditorTransaction: Undo Reset Rotation
+[2024.07.07-01.20.53:809][780]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.53:809][780]LogEditorTransaction: Undo Set Rotation
+[2024.07.07-01.20.54:097][789]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.54:097][789]LogEditorTransaction: Undo Set Rotation
+[2024.07.07-01.20.54:490][823]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.54:490][823]LogEditorTransaction: Undo Reset Rotation
+[2024.07.07-01.20.54:823][855]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.54:823][855]LogEditorTransaction: Undo Set Rotation
+[2024.07.07-01.20.55:115][883]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.55:115][883]LogEditorTransaction: Undo Set Rotation
+[2024.07.07-01.20.55:444][915]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.55:444][915]LogEditorTransaction: Undo Set Rotation
+[2024.07.07-01.20.55:818][951]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.55:818][951]LogEditorTransaction: Undo Set Rotation
+[2024.07.07-01.20.56:117][980]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.56:117][980]LogEditorTransaction: Undo Reset Rotation
+[2024.07.07-01.20.56:447][ 12]Cmd: TRANSACTION UNDO
+[2024.07.07-01.20.56:447][ 12]LogEditorTransaction: Undo Move Elements
+[2024.07.07-01.27.55:771][668]LogEditorTransaction: Undo Move Nodes
+[2024.07.07-01.29.29:293][538]LogEditorTransaction: Undo Move Node
+[2024.07.07-01.30.39:420][520]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.30.39:535][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.07.07-01.30.40:124][538]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.30.40:124][538]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer18ED65A64C9AD2535DF067A87AB45349.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.30.40:137][538]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.30.40:137][538]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.31.20:325][322]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.31.20:408][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.07.07-01.31.20:890][345]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.31.20:890][345]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer977AAE334E2D70ACBFAD8B95CEAB7788.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.31.20:903][345]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.31.20:903][345]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.31.23:565][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.07.07-01.31.23:585][538]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.31.23:585][538]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMapCBD0A8CA4DCED4CE2CE5BBBF05621A92.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.31.23:600][538]LogFileHelpers: No new changes to save!
+[2024.07.07-01.31.23:611][538]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.31.23:611][538]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.31.32:670][321]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.07-01.31.32:681][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.07-01.31.32:681][321]PIE: New page: PIE session: VRTemplateMap (7 Jul 2024, 9:31:32 pm)
+[2024.07.07-01.31.32:682][321]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.31.32:689][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007616s)
+[2024.07.07-01.31.32:689][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007687s)
+[2024.07.07-01.31.32:689][321]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.07-01.31.32:689][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.07-01.31.32:690][321]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.07-01.31.32:690][321]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2024.07.07-01.31.32:726][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.07.07-01.31.32:729][321]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.07-01.31.32:729][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.07-01.31.32:729][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.07-01.31.32:729][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.07-01.31.32:729][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.07-01.31.32:729][321]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.07-01.31.32:729][321]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.07-01.31.32:729][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.07-01.31.32:729][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.07-01.31.32:729][321]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.07-01.31.32:729][321]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.07-01.31.32:729][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.07-01.31.32:732][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.07-01.31.32:749][321]LogAudioMixer: Display: Using Audio Hardware Device SMBX2240 (NVIDIA High Definition Audio)
+[2024.07.07-01.31.32:750][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.07-01.31.32:750][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.07-01.31.32:750][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.07-01.31.32:751][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.07-01.31.32:751][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.07-01.31.32:752][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.07-01.31.32:752][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.07-01.31.32:752][321]LogInit: FAudioDevice initialized.
+[2024.07.07-01.31.32:752][321]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2024.07.07-01.31.32:766][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.31.32:767][321]LogViewport: Scene viewport resized to 6040x3568, mode Windowed.
+[2024.07.07-01.31.32:852][321]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.07-01.31.32:855][321]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.07-11.31.32
+[2024.07.07-01.31.32:855][321]LogWorld: Bringing up level for play took: 0.002410
+[2024.07.07-01.31.32:857][321]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.07.07-01.31.32:857][321]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.07-01.31.32:858][321]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.31.32:858][321]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.31.32:858][321]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.31.32:861][321]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.31.32:862][321]Cmd: vr.PixelDensity 1.0
+[2024.07.07-01.31.32:862][321]vr.PixelDensity = "1"
+[2024.07.07-01.31.32:870][321]PIE: Server logged in
+[2024.07.07-01.31.32:876][321]PIE: Play in editor total start time 0.2 seconds.
+[2024.07.07-01.31.32:938][321]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.07-01.31.32:968][323]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.07-01.31.35:451][539]LogHMD: SetSpectatorScreenMode(6).
+[2024.07.07-01.32.17:710][340]PIE: Warning: Mobility of /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap:PersistentLevel.BP_ToyDispencer_C_1 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.07.07-01.32.31:911][618]PIE: Warning: Mobility of /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap:PersistentLevel.BP_ToyDispencer_C_1 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.07.07-01.32.34:111][816]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.34:600][860]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.34:911][888]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.35:155][910]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.35:345][927]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.35:511][942]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.35:680][957]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.35:889][976]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.36:024][988]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.36:190][  3]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.36:356][ 18]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.36:512][ 32]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.36:733][ 52]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.07-01.32.44:789][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.32.44:801][777]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.07-01.32.44:837][777]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.32.44:967][777]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.07-01.32.45:007][777]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.07-01.32.45:008][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.32.45:015][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.07-01.32.45:021][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.32.45:060][777]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.07-01.32.45:060][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.07-01.32.45:060][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.07-01.32.45:066][777]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.07-01.32.45:066][777]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.32.45:067][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.07.07-01.32.45:288][778]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.07.07-01.32.51:107][254]LogSlate: Window 'Message Log' being destroyed
+[2024.07.07-01.32.51:114][254]LogSlate: Window 'Message Log' being destroyed
+[2024.07.07-01.33.51:410][479]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.33.51:483][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.07.07-01.33.51:995][508]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.33.51:995][508]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer2D720242450AE5E80B2191BACEF32D3F.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.33.52:008][508]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.33.52:008][508]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.33.54:635][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.07.07-01.33.54:655][752]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.33.54:656][752]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap7F21AF2D416ECBD189AED09FB9AD5119.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.33.54:669][752]LogFileHelpers: No new changes to save!
+[2024.07.07-01.33.54:681][752]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.33.54:681][752]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.33.58:375][140]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.07-01.33.58:381][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.07-01.33.58:382][140]PIE: New page: PIE session: VRTemplateMap (7 Jul 2024, 9:33:58 pm)
+[2024.07.07-01.33.58:382][140]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.33.58:389][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007332s)
+[2024.07.07-01.33.58:389][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007399s)
+[2024.07.07-01.33.58:389][140]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.07-01.33.58:389][140]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.07-01.33.58:390][140]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.07-01.33.58:390][140]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2024.07.07-01.33.58:423][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.07.07-01.33.58:425][140]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.07-01.33.58:425][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.07-01.33.58:425][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.07-01.33.58:425][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.07-01.33.58:425][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.07-01.33.58:425][140]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.07-01.33.58:425][140]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.07-01.33.58:425][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.07-01.33.58:425][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.07-01.33.58:425][140]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.07-01.33.58:425][140]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.07-01.33.58:425][140]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.07-01.33.58:427][140]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.07-01.33.58:443][140]LogAudioMixer: Display: Using Audio Hardware Device SMBX2240 (NVIDIA High Definition Audio)
+[2024.07.07-01.33.58:444][140]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.07-01.33.58:444][140]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.07-01.33.58:444][140]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.07-01.33.58:444][140]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.07-01.33.58:444][140]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.07-01.33.58:446][140]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.07-01.33.58:446][140]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.07-01.33.58:446][140]LogInit: FAudioDevice initialized.
+[2024.07.07-01.33.58:446][140]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2024.07.07-01.33.58:461][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.33.58:461][140]LogViewport: Scene viewport resized to 6040x3568, mode Windowed.
+[2024.07.07-01.33.58:526][140]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.07-01.33.58:528][140]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.07-11.33.58
+[2024.07.07-01.33.58:528][140]LogWorld: Bringing up level for play took: 0.002391
+[2024.07.07-01.33.58:530][140]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.07.07-01.33.58:530][140]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.07-01.33.58:531][140]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.33.58:531][140]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.33.58:531][140]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.33.58:533][140]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.33.58:534][140]Cmd: vr.PixelDensity 1.0
+[2024.07.07-01.33.58:534][140]vr.PixelDensity = "1"
+[2024.07.07-01.33.58:540][140]PIE: Server logged in
+[2024.07.07-01.33.58:545][140]PIE: Play in editor total start time 0.164 seconds.
+[2024.07.07-01.33.58:602][140]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.07-01.33.58:628][142]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.07-01.34.38:037][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.34.38:049][682]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.07-01.34.38:080][682]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.34.38:171][682]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.07-01.34.38:211][682]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.07-01.34.38:212][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.34.38:226][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.07-01.34.38:231][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.34.38:266][682]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.07-01.34.38:266][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.07-01.34.38:268][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.07-01.34.38:272][682]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.07-01.34.38:272][682]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.34.38:274][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.07.07-01.34.38:299][683]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.07.07-01.37.02:064][ 32]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.37.02:145][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.07.07-01.37.02:769][ 61]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.37.02:769][ 61]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerD9C7EA784856500830BF5488BAF95474.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.37.02:781][ 61]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.37.02:781][ 61]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.37.08:724][389]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.07.07-01.37.19:379][247]LogEditorTransaction: Undo Move Nodes
+[2024.07.07-01.37.44:290][296]LogSlate: Window 'Delete Variable' being destroyed
+[2024.07.07-01.40.16:153][662]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.40.16:165][662]LogClass: Warning: Type mismatch in DisplayToy Rotation of BP_ToyDispencer_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2024.07.07-01.40.16:236][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.07.07-01.40.17:107][705]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.40.17:107][705]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer193372A541AC33DE658074A2035A753D.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.40.17:120][705]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.40.17:120][705]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.40.31:551][989]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.40.31:637][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.07-01.40.32:174][  2]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.40.32:174][  2]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer65558D324026E1B165B5E6BE6AA6D4DB.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.40.32:185][  2]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.40.32:185][  2]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.40.50:133][665]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.07.07-01.40.50:138][665]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.07.07-01.41.40:539][877]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.41.40:539][877]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer8350A0D44402962C48FB71B2101C6259.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.41.40:554][877]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.41.40:554][877]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.41.42:690][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.07.07-01.41.42:710][ 54]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.41.42:711][ 54]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap96859EC3406C15D773991D9D93B86BA1.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.41.42:725][ 54]LogFileHelpers: No new changes to save!
+[2024.07.07-01.41.42:737][ 54]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.41.42:737][ 54]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.41.52:400][ 45]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.07-01.41.52:406][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.07-01.41.52:406][ 45]PIE: New page: PIE session: VRTemplateMap (7 Jul 2024, 9:41:52 pm)
+[2024.07.07-01.41.52:406][ 45]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.41.52:415][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007490s)
+[2024.07.07-01.41.52:415][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007571s)
+[2024.07.07-01.41.52:415][ 45]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.07-01.41.52:415][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.07-01.41.52:415][ 45]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.07-01.41.52:415][ 45]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2024.07.07-01.41.52:450][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.07.07-01.41.52:451][ 45]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.07.07-01.41.52:451][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.07-01.41.52:451][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.07-01.41.52:451][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.07-01.41.52:451][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.07-01.41.52:451][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.07-01.41.52:451][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.07-01.41.52:451][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.07-01.41.52:451][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.07-01.41.52:451][ 45]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.07-01.41.52:452][ 45]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.07-01.41.52:452][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.07-01.41.52:453][ 45]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.07-01.41.52:470][ 45]LogAudioMixer: Display: Using Audio Hardware Device SMBX2240 (NVIDIA High Definition Audio)
+[2024.07.07-01.41.52:471][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.07-01.41.52:471][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.07-01.41.52:471][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.07-01.41.52:471][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.07.07-01.41.52:472][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.07.07-01.41.52:473][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.07.07-01.41.52:473][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.07.07-01.41.52:473][ 45]LogInit: FAudioDevice initialized.
+[2024.07.07-01.41.52:473][ 45]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2024.07.07-01.41.52:490][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.41.52:490][ 45]LogViewport: Scene viewport resized to 6040x3568, mode Windowed.
+[2024.07.07-01.41.52:574][ 45]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.07-01.41.52:575][ 45]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.07-11.41.52
+[2024.07.07-01.41.52:576][ 45]LogWorld: Bringing up level for play took: 0.002469
+[2024.07.07-01.41.52:577][ 45]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.07.07-01.41.52:578][ 45]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.07-01.41.52:578][ 45]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.41.52:578][ 45]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.41.52:579][ 45]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.41.52:580][ 45]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.41.52:581][ 45]Cmd: vr.PixelDensity 1.0
+[2024.07.07-01.41.52:581][ 45]vr.PixelDensity = "1"
+[2024.07.07-01.41.52:589][ 45]PIE: Server logged in
+[2024.07.07-01.41.52:593][ 45]PIE: Play in editor total start time 0.187 seconds.
+[2024.07.07-01.41.52:643][ 45]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.07-01.41.52:668][ 47]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.07-01.43.10:154][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.43.10:165][  7]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.07-01.43.10:194][  7]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.43.10:316][  7]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.07-01.43.10:357][  7]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.07-01.43.10:358][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.43.10:366][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.07-01.43.10:371][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.43.10:407][  7]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.07-01.43.10:407][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.07-01.43.10:409][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.07-01.43.10:415][  7]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.07-01.43.10:415][  7]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.43.10:416][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.07.07-01.43.10:442][  8]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.07.07-01.44.05:591][463]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.44.05:667][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.07.07-01.44.06:180][493]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.44.06:180][493]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer680F512549F160A146B14C9D8F81B212.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.44.06:192][493]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.44.06:192][493]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.44.08:521][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.07.07-01.44.08:542][699]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.44.08:543][699]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap2AD05D2140C1BC13708F09BEDD06B404.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.44.08:557][699]LogFileHelpers: No new changes to save!
+[2024.07.07-01.44.08:568][699]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.44.08:568][699]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.44.10:093][810]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.07-01.44.10:099][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.07-01.44.10:099][810]PIE: New page: PIE session: VRTemplateMap (7 Jul 2024, 9:44:10 pm)
+[2024.07.07-01.44.10:099][810]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.44.10:106][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007434s)
+[2024.07.07-01.44.10:106][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007504s)
+[2024.07.07-01.44.10:106][810]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.07-01.44.10:107][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.07-01.44.10:107][810]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.07-01.44.10:107][810]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2024.07.07-01.44.10:143][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.07.07-01.44.10:144][810]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.07.07-01.44.10:144][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.07-01.44.10:144][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.07-01.44.10:144][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.07-01.44.10:144][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.07-01.44.10:144][810]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.07-01.44.10:144][810]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.07-01.44.10:144][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.07-01.44.10:144][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.07-01.44.10:144][810]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.07-01.44.10:144][810]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.07-01.44.10:144][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.07-01.44.10:146][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.07-01.44.10:163][810]LogAudioMixer: Display: Using Audio Hardware Device SMBX2240 (NVIDIA High Definition Audio)
+[2024.07.07-01.44.10:163][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.07-01.44.10:163][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.07-01.44.10:163][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.07-01.44.10:163][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.07.07-01.44.10:163][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.07.07-01.44.10:165][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.07.07-01.44.10:165][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.07.07-01.44.10:165][810]LogInit: FAudioDevice initialized.
+[2024.07.07-01.44.10:165][810]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2024.07.07-01.44.10:180][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.44.10:181][810]LogViewport: Scene viewport resized to 6040x3568, mode Windowed.
+[2024.07.07-01.44.10:245][810]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.07-01.44.10:247][810]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.07-11.44.10
+[2024.07.07-01.44.10:248][810]LogWorld: Bringing up level for play took: 0.002673
+[2024.07.07-01.44.10:249][810]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.07.07-01.44.10:250][810]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.07-01.44.10:250][810]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.44.10:251][810]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.44.10:251][810]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.44.10:253][810]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.44.10:254][810]Cmd: vr.PixelDensity 1.0
+[2024.07.07-01.44.10:254][810]vr.PixelDensity = "1"
+[2024.07.07-01.44.10:261][810]PIE: Server logged in
+[2024.07.07-01.44.10:266][810]PIE: Play in editor total start time 0.167 seconds.
+[2024.07.07-01.44.10:315][810]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.07-01.44.10:342][812]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.07-01.45.11:824][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.45.11:837][338]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.07-01.45.11:867][338]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.45.11:987][338]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.07-01.45.12:010][338]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.07-01.45.12:011][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.45.12:018][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.07-01.45.12:023][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.45.12:060][338]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.07-01.45.12:060][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.07-01.45.12:061][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.07-01.45.12:066][338]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.07-01.45.12:066][338]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.45.12:068][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.07.07-01.45.12:124][339]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.07.07-01.45.41:909][393]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.45.41:984][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.07.07-01.45.42:451][408]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.45.42:451][408]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer90299B8D4532856CD483048AB24582C4.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.45.42:462][408]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.45.42:462][408]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.45.44:056][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.07.07-01.45.44:076][536]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.45.44:077][536]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMapDA1BC419495E9CEF752B6584C311EF11.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.45.44:090][536]LogFileHelpers: No new changes to save!
+[2024.07.07-01.45.44:102][536]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.45.44:102][536]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.45.45:826][696]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.07-01.45.45:832][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.07-01.45.45:832][696]PIE: New page: PIE session: VRTemplateMap (7 Jul 2024, 9:45:45 pm)
+[2024.07.07-01.45.45:832][696]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.45.45:839][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007592s)
+[2024.07.07-01.45.45:839][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007658s)
+[2024.07.07-01.45.45:839][696]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.07-01.45.45:839][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.07-01.45.45:839][696]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.07-01.45.45:839][696]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2024.07.07-01.45.45:875][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.07.07-01.45.45:876][696]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.07.07-01.45.45:876][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.07-01.45.45:876][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.07-01.45.45:876][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.07-01.45.45:876][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.07-01.45.45:876][696]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.07-01.45.45:876][696]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.07-01.45.45:877][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.07-01.45.45:877][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.07-01.45.45:877][696]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.07-01.45.45:877][696]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.07-01.45.45:877][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.07-01.45.45:879][696]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.07-01.45.45:895][696]LogAudioMixer: Display: Using Audio Hardware Device SMBX2240 (NVIDIA High Definition Audio)
+[2024.07.07-01.45.45:895][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.07-01.45.45:895][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.07-01.45.45:895][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.07-01.45.45:896][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.07.07-01.45.45:896][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.07.07-01.45.45:897][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.07.07-01.45.45:897][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.07.07-01.45.45:897][696]LogInit: FAudioDevice initialized.
+[2024.07.07-01.45.45:897][696]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRTemplateMap'.
+[2024.07.07-01.45.45:913][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.45.45:913][696]LogViewport: Scene viewport resized to 6040x3568, mode Windowed.
+[2024.07.07-01.45.45:980][696]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.07-01.45.45:983][696]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.07-11.45.45
+[2024.07.07-01.45.45:983][696]LogWorld: Bringing up level for play took: 0.002561
+[2024.07.07-01.45.45:985][696]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.07.07-01.45.45:985][696]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.07-01.45.45:986][696]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.45.45:986][696]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.45.45:986][696]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.45.45:988][696]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.45.45:989][696]Cmd: vr.PixelDensity 1.0
+[2024.07.07-01.45.45:989][696]vr.PixelDensity = "1"
+[2024.07.07-01.45.45:996][696]PIE: Server logged in
+[2024.07.07-01.45.46:000][696]PIE: Play in editor total start time 0.169 seconds.
+[2024.07.07-01.45.46:071][696]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.07-01.45.46:097][698]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.07-01.46.39:116][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.46.39:128][464]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.07-01.46.39:160][464]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.46.39:289][464]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.07-01.46.39:314][464]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.07-01.46.39:314][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.46.39:326][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.07-01.46.39:332][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.46.39:369][464]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.07-01.46.39:369][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.07-01.46.39:370][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.07-01.46.39:374][464]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.07-01.46.39:374][464]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.46.39:376][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.07.07-01.46.39:405][465]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.07.07-01.52.38:325][491]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.52.38:402][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.07.07-01.52.39:194][549]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.52.39:195][549]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerE1A8FC424E1C47AFCA3B70BE908AADD9.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.52.39:207][549]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.52.39:207][549]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.52.49:995][598]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.52.50:073][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.07.07-01.52.50:795][648]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.52.50:795][648]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerB4CAF39E46A1477C12A38E899F1B36F1.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.52.50:806][648]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.52.50:806][648]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.52.53:270][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.07.07-01.52.53:290][866]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.52.53:291][866]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap8954082E4CB4067E055AC3B76E4972C1.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.52.53:305][866]LogFileHelpers: No new changes to save!
+[2024.07.07-01.52.53:316][866]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.52.53:316][866]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.52.55:651][ 79]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.07-01.52.55:657][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.07-01.52.55:657][ 79]PIE: New page: PIE session: VRTemplateMap (7 Jul 2024, 9:52:55 pm)
+[2024.07.07-01.52.55:657][ 79]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.52.55:665][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008070s)
+[2024.07.07-01.52.55:665][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.008142s)
+[2024.07.07-01.52.55:665][ 79]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.07-01.52.55:666][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.07-01.52.55:666][ 79]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.07-01.52.55:666][ 79]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2024.07.07-01.52.55:702][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.07.07-01.52.55:702][ 79]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.07.07-01.52.55:703][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.07-01.52.55:703][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.07-01.52.55:703][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.07-01.52.55:703][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.07-01.52.55:703][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.07-01.52.55:703][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.07-01.52.55:703][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.07-01.52.55:703][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.07-01.52.55:703][ 79]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.07-01.52.55:703][ 79]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.07-01.52.55:703][ 79]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.07-01.52.55:705][ 79]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.07-01.52.55:722][ 79]LogAudioMixer: Display: Using Audio Hardware Device SMBX2240 (NVIDIA High Definition Audio)
+[2024.07.07-01.52.55:722][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.07-01.52.55:722][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.07-01.52.55:722][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.07-01.52.55:723][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.07.07-01.52.55:723][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.07.07-01.52.55:725][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.07.07-01.52.55:725][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.07.07-01.52.55:725][ 79]LogInit: FAudioDevice initialized.
+[2024.07.07-01.52.55:725][ 79]LogAudio: Display: Audio Device (ID: 13) registered with world 'VRTemplateMap'.
+[2024.07.07-01.52.55:742][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.52.55:742][ 79]LogViewport: Scene viewport resized to 6040x3568, mode Windowed.
+[2024.07.07-01.52.55:825][ 79]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.07-01.52.55:828][ 79]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.07-11.52.55
+[2024.07.07-01.52.55:828][ 79]LogWorld: Bringing up level for play took: 0.002376
+[2024.07.07-01.52.55:830][ 79]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.07.07-01.52.55:830][ 79]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.07-01.52.55:831][ 79]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.52.55:831][ 79]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.52.55:832][ 79]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.52.55:834][ 79]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.52.55:835][ 79]Cmd: vr.PixelDensity 1.0
+[2024.07.07-01.52.55:835][ 79]vr.PixelDensity = "1"
+[2024.07.07-01.52.55:841][ 79]PIE: Server logged in
+[2024.07.07-01.52.55:847][ 79]PIE: Play in editor total start time 0.19 seconds.
+[2024.07.07-01.52.55:901][ 79]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.07-01.52.55:921][ 81]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.07-01.53.31:548][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.53.31:559][275]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.07-01.53.31:595][275]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.53.31:733][275]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.07-01.53.31:764][275]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.07-01.53.31:765][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.53.31:774][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.07-01.53.31:778][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.53.31:814][275]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.07-01.53.31:814][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.07-01.53.31:815][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.07-01.53.31:820][275]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.07-01.53.31:820][275]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.53.31:821][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.07.07-01.53.31:875][276]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.07.07-01.54.30:852][ 44]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.54.30:928][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.07.07-01.54.31:564][ 81]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.54.31:565][ 81]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer3E5927FD4944BA253E0B1F955C34CE24.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.54.31:577][ 81]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.54.31:577][ 81]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.54.42:614][ 95]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-01.54.42:690][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.07-01.54.43:197][121]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.54.43:197][121]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer22352070468E4E29FFE91F8E9FD5606D.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.54.43:208][121]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.54.43:208][121]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.54.44:872][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.07.07-01.54.44:892][268]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.54.44:892][268]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap902B633B43F06F752DEFC6B776A4E63B.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.54.44:906][268]LogFileHelpers: No new changes to save!
+[2024.07.07-01.54.44:917][268]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.54.44:917][268]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-01.54.46:495][413]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.07-01.54.46:501][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.07-01.54.46:501][413]PIE: New page: PIE session: VRTemplateMap (7 Jul 2024, 9:54:46 pm)
+[2024.07.07-01.54.46:501][413]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.54.46:509][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007868s)
+[2024.07.07-01.54.46:509][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007936s)
+[2024.07.07-01.54.46:509][413]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.07-01.54.46:510][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.07-01.54.46:510][413]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.07-01.54.46:510][413]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2024.07.07-01.54.46:544][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.07.07-01.54.46:545][413]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.07.07-01.54.46:545][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.07-01.54.46:545][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.07-01.54.46:545][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.07-01.54.46:545][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.07-01.54.46:545][413]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.07-01.54.46:545][413]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.07-01.54.46:545][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.07-01.54.46:545][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.07-01.54.46:546][413]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.07-01.54.46:546][413]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.07-01.54.46:546][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.07-01.54.46:548][413]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.07-01.54.46:565][413]LogAudioMixer: Display: Using Audio Hardware Device SMBX2240 (NVIDIA High Definition Audio)
+[2024.07.07-01.54.46:565][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.07-01.54.46:565][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.07-01.54.46:565][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.07-01.54.46:565][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.07.07-01.54.46:565][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.07.07-01.54.46:567][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.07.07-01.54.46:567][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.07.07-01.54.46:567][413]LogInit: FAudioDevice initialized.
+[2024.07.07-01.54.46:567][413]LogAudio: Display: Audio Device (ID: 14) registered with world 'VRTemplateMap'.
+[2024.07.07-01.54.46:583][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.54.46:583][413]LogViewport: Scene viewport resized to 6040x3568, mode Windowed.
+[2024.07.07-01.54.46:662][413]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.07-01.54.46:665][413]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.07-11.54.46
+[2024.07.07-01.54.46:665][413]LogWorld: Bringing up level for play took: 0.002802
+[2024.07.07-01.54.46:667][413]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.07.07-01.54.46:667][413]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.07-01.54.46:668][413]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.54.46:668][413]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.07-01.54.46:668][413]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.54.46:670][413]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.54.46:671][413]Cmd: vr.PixelDensity 1.0
+[2024.07.07-01.54.46:671][413]vr.PixelDensity = "1"
+[2024.07.07-01.54.46:678][413]PIE: Server logged in
+[2024.07.07-01.54.46:683][413]PIE: Play in editor total start time 0.182 seconds.
+[2024.07.07-01.54.46:738][413]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.07-01.54.46:760][415]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.07-01.58.35:388][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.07-01.58.35:401][975]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.07-01.58.35:431][975]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.07-01.58.35:572][975]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.07-01.58.35:611][975]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.07-01.58.35:612][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.58.35:625][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.07-01.58.35:629][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.07-01.58.35:667][975]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.07-01.58.35:667][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.07-01.58.35:669][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.07-01.58.35:675][975]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.07-01.58.35:675][975]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.07-01.58.35:676][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.07.07-01.58.35:704][976]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.07.07-01.59.12:567][864]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-01.59.12:568][864]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerA537A6BC45F1DD11307F18A8B780742A.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-01.59.12:580][864]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-01.59.12:580][864]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-01.59.14:577][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.07.07-01.59.14:596][ 26]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-01.59.14:597][ 26]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMapCED7B3814BA1E5F36AD9F99C33427D18.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-01.59.14:610][ 26]LogFileHelpers: No new changes to save!
+[2024.07.07-01.59.14:622][ 26]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-01.59.14:622][ 26]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.07.07-02.00.16:897][956]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.07-02.00.16:973][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.07.07-02.00.17:571][982]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-02.00.17:571][982]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerB510E4AC481879486EC2BC8D7932238C.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-02.00.17:584][982]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-02.00.17:584][982]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-02.00.37:502][754]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.07-02.00.37:502][754]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerF8FDB24F414D527651060298C3F95A51.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.07-02.00.37:515][754]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.07-02.00.37:515][754]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.07-02.00.39:245][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.07.07-02.00.39:265][901]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.07.07-02.00.39:265][901]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMapC6A7699148828F3C5631DE9D9A2C61FA.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.07.07-02.00.39:279][901]LogFileHelpers: No new changes to save!
+[2024.07.07-02.00.39:290][901]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.07.07-02.00.39:290][901]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
