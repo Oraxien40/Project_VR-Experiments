@@ -2029,3 +2029,776 @@ Script Stack (0 frames):
 [2024.07.19-01.05.50:760][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2024.07.19-01.05.50:767][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
 [2024.07.19-01.05.50:805][786]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.07.19-01.07.27:926][ 15]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon
+[2024.07.19-01.07.27:926][ 15]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer_TargetingCannonB873B39D496DEF7D3616D49A10A927CC.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.uasset'
+[2024.07.19-01.07.27:940][ 15]AssetCheck: New page: Asset Save: BP_ToyDispencer_TargetingCannon
+[2024.07.19-01.07.27:940][ 15]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon
+[2024.07.19-01.15.14:714][329]LogDerivedDataCache: C:/Users/jorda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.271 and deleted 0 file(s) with total size 0 MiB.
+[2024.07.19-01.49.35:073][491]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (JBL Flip 5 Stereo), InstanceID=1
+[2024.07.19-01.49.35:073][491]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8208
+[2024.07.19-01.49.35:402][491]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{09da1510-953f-4e8e-80c1-a30e0fc7dc08}, Name=Speakers (JBL Flip 5 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.45
+[2024.07.19-01.49.35:402][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.19-01.49.35:408][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.19-02.01.40:999][708]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.07.19-02.01.40:999][708]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.07.19-02.01.45:343][ 72]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.01.45:343][ 72]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.01.47:346][243]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/VRTemplate/Blueprints/GrabType.GrabType
+[2024.07.19-02.02.38:442][857]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/GrabType
+[2024.07.19-02.02.38:443][857]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/GrabType730B1D4F4131FAC1B4E517A4C88ECF23.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/GrabType.uasset'
+[2024.07.19-02.02.38:458][857]AssetCheck: New page: Asset Save: GrabType
+[2024.07.19-02.02.38:458][857]LogContentValidation: Display: Validating UserDefinedEnum /Game/VRTemplate/Blueprints/GrabType.GrabType
+[2024.07.19-02.02.40:807][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+[2024.07.19-02.02.40:808][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.19-02.03.10:804][180]LogSlate: Took 0.005310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.07.19-02.04.07:369][870]BlueprintLog: New page: Compile GrabComponent
+[2024.07.19-02.04.07:494][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.07.19-02.04.07:516][870]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_60.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.07:519][870]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_52.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.07:521][870]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_52.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.07:537][870]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_62.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.07:539][870]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_54.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.07:541][870]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_54.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.07:600][871]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.04.09:424][ 51]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/GrabComponent
+[2024.07.19-02.04.09:424][ 51]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/GrabComponentDA1A2A134CE0EE96E9C774B17EC901DC.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/GrabComponent.uasset'
+[2024.07.19-02.04.09:439][ 51]AssetCheck: New page: Asset Save: GrabComponent
+[2024.07.19-02.04.09:439][ 51]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+[2024.07.19-02.04.31:301][395]BlueprintLog: New page: Compile GrabComponent
+[2024.07.19-02.04.31:404][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.07.19-02.04.31:426][395]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_64.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.31:428][395]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_56.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.31:431][395]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_56.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.31:447][395]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_66.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.31:449][395]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_58.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.31:451][395]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_58.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.31:504][396]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.04.31:958][423]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/GrabComponent
+[2024.07.19-02.04.31:958][423]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/GrabComponentA2F5735448E6DEAC580D46BAE1EE7EFC.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/GrabComponent.uasset'
+[2024.07.19-02.04.31:974][423]AssetCheck: New page: Asset Save: GrabComponent
+[2024.07.19-02.04.31:974][423]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+[2024.07.19-02.04.37:205][521]BlueprintLog: New page: Compile GrabComponent
+[2024.07.19-02.04.37:307][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.07.19-02.04.37:332][521]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_60.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.37:334][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_60.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.37:335][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_68.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.37:352][521]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_62.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.37:354][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_62.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.37:355][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_70.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.04.37:408][522]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.04.37:789][534]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/GrabComponent
+[2024.07.19-02.04.37:790][534]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/GrabComponent30EF3E5A499FEEEADA72B49DFE3009C9.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/GrabComponent.uasset'
+[2024.07.19-02.04.37:804][534]AssetCheck: New page: Asset Save: GrabComponent
+[2024.07.19-02.04.37:804][534]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+[2024.07.19-02.04.41:217][903]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.07.19-02.04.41:217][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.04.42:270][ 15]LogViewport: Scene viewport resized to 2576x1509, mode Windowed.
+[2024.07.19-02.05.17:395][499]LogMetaData: Removing '/Game/MyContent/Mechanic_tests/TargetRetical.TargetRetical:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.PackageMetaData'
+[2024.07.19-02.05.17:395][499]LogMetaData: Removing '/Game/MyContent/Mechanic_tests/TargetRetical.TargetRetical_C' ref from Metadata '/Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.PackageMetaData'
+[2024.07.19-02.05.17:395][499]LogMetaData: Removing '/Game/MyContent/Mechanic_tests/TargetRetical.SKEL_TargetRetical_C' ref from Metadata '/Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.PackageMetaData'
+[2024.07.19-02.05.17:395][499]LogMetaData: Removing '/Game/MyContent/Mechanic_tests/TargetRetical.SKEL_TargetRetical_C:UserConstructionScript' ref from Metadata '/Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.PackageMetaData'
+[2024.07.19-02.05.17:510][499]LogSavePackage: Moving output files for package: /Game/MyContent/Mechanic_tests/TargetRetical
+[2024.07.19-02.05.17:510][499]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/TargetReticalF5E94245484A79C700CDC9B08E386713.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/Mechanic_tests/TargetRetical.uasset'
+[2024.07.19-02.05.17:512][499]LogSavePackage: Moving output files for package: /Game/MyContent/Prototypes/Mechanic_tests/TargetRetical
+[2024.07.19-02.05.17:512][499]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/TargetRetical98401B5840C6B0C85E716BBA731431F4.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/Prototypes/Mechanic_tests/TargetRetical.uasset'
+[2024.07.19-02.05.17:544][499]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.19-02.05.17:544][499]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Mechanic_tests/TargetRetical.TargetRetical
+[2024.07.19-02.05.17:544][499]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.TargetRetical
+[2024.07.19-02.05.17:544][499]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.Default__TargetRetical_C
+[2024.07.19-02.05.17:544][499]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.TargetRetical_C
+[2024.07.19-02.05.27:598][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.07.19-02.05.39:020][566]LogSlate: Window 'Delete Assets' being destroyed
+[2024.07.19-02.05.39:039][566]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.TargetRetical
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.Default__TargetRetical_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/MyContent/Prototypes/Mechanic_tests/TargetRetical.TargetRetical_C
+	Asset Type: ObjectRedirector
+[2024.07.19-02.05.39:462][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.07.19-02.05.39:504][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.07.19-02.05.39:547][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.07.19-02.05.42:922][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.07.19-02.05.42:945][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2024.07.19-02.05.42:945][877]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap_Auto1452A14C740EF5B6867B0E8A404A07FAC.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2024.07.19-02.05.42:951][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.072
+[2024.07.19-02.05.42:951][877]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2024.07.19-02.05.42:952][877]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2024.07.19-02.05.42:956][877]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2024.07.19-02.05.42:956][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2024.07.19-02.05.43:027][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto1
+[2024.07.19-02.05.43:027][877]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRPawn_Auto1EE7ED81A43E21403AD70D8B54310A311.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto1.uasset'
+[2024.07.19-02.05.43:028][877]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon] ([2] browsable assets)...
+[2024.07.19-02.05.43:031][877]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon]
+[2024.07.19-02.05.43:031][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon]
+[2024.07.19-02.05.43:038][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon_Auto1
+[2024.07.19-02.05.43:060][877]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer_TargetingCannon_33E638904AB1508A2AF2C19414A10C88.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/Autosaves/Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon_Auto1.uasset'
+[2024.07.19-02.05.43:060][877]LogFileHelpers: Auto-saving content packages took 0.108
+[2024.07.19-02.06.08:052][271]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.06.08:053][271]LogLinker: Warning: [AssetLog] D:\Game Projects\Unreal\Project_VR-Experiments\Project_VR-Experiments\VR_Experiments\Content\MyContent\2_Toys\BP_ToyDispencer_TargetingCannon.uasset: Failed to load '/Game/MyContent/Prototypes/Mechanic_tests/TargetRetical': Can't find file.
+[2024.07.19-02.06.08:053][271]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MyContent/Prototypes/Mechanic_tests/TargetRetical'
+[2024.07.19-02.06.08:053][271]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.06.10:004][406]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.19-02.06.15:019][767]BlueprintLog: New page: Compile BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.06.15:100][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.07.19-02.06.15:197][768]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.06.15:258][768]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.06.15:258][768]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.06.15:617][784]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.06.15:617][784]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer_TargetingCannon3A86F06C48DDF3001864DEAB507844DC.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.uasset'
+[2024.07.19-02.06.15:632][784]AssetCheck: New page: Asset Save: BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.06.15:632][784]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.06.17:657][925]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.19-02.06.17:764][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.07.19-02.06.17:916][926]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.06.18:301][938]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.19-02.06.18:302][938]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer240B305646EC2C502D1158BDB075EC8B.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.19-02.06.18:316][938]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.19-02.06.18:316][938]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.19-02.06.23:001][358]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.07.19-02.06.23:001][358]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.07.19-02.06.57:629][691]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.06.57:632][691]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.07.03:919][ 82]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.19-02.07.09:280][461]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.07.09:280][461]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.07.09:280][461]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.07.09:280][461]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.07.09:293][462]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.07.13:982][812]LogEditorTransaction: Undo Edit Child Actor Class
+[2024.07.19-02.07.14:135][813]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.07.14:238][813]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.07.14:238][813]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.07.15:150][847]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.07.15:151][847]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer_TargetingCannon012373504540B16A3871A7B94992EB14.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.uasset'
+[2024.07.19-02.07.15:166][847]AssetCheck: New page: Asset Save: BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.07.15:166][847]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.07.17:320][  3]BlueprintLog: New page: Compile BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.07.17:402][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.07.19-02.07.17:499][  4]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.07.17:559][  4]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.07.17:560][  4]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.07.17:883][ 17]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.07.17:883][ 17]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer_TargetingCannon6048D2694F036737D966689993EA3490.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.uasset'
+[2024.07.19-02.07.17:895][ 17]AssetCheck: New page: Asset Save: BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.07.17:895][ 17]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.07.38:604][618]LogViewport: Scene viewport resized to 1069x749, mode Windowed.
+[2024.07.19-02.07.39:969][776]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.19-02.08.13:574][ 15]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.07.19-02.08.13:574][ 15]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.19-02.08.13:893][ 15]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.13:893][ 15]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:018][242]BlueprintLog: New page: Compile VRPawn
+[2024.07.19-02.08.45:103][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:104][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:105][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:105][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:106][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:107][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:174][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.07.19-02.08.45:186][242]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_90.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.08.45:188][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_90.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.08.45:190][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_103.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.08.45:193][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:193][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:195][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:196][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:197][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:198][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:199][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:200][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:231][242]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_92.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.08.45:233][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_92.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.08.45:235][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_105.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.08.45:238][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:238][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:240][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:240][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:242][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:242][242]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.08.45:356][243]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.08.45:397][244]LogViewport: Scene viewport resized to 1069x749, mode Windowed.
+[2024.07.19-02.08.45:677][248]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.07.19-02.08.45:677][248]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRPawn15581CF04AA1751B3DF6CBBB43542948.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.07.19-02.08.45:694][248]AssetCheck: New page: Asset Save: VRPawn
+[2024.07.19-02.08.45:694][248]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.07.19-02.09.07:553][763]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.19-02.09.07:560][763]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.19-02.09.07:561][763]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2024.07.19-02.09.07:616][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.07.19-02.09.07:618][763]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2024.07.19-02.09.07:618][763]PIE: New page: PIE session: VRTemplateMap (19 Jul 2024, 10:09:07 pm)
+[2024.07.19-02.09.07:618][763]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.09.07:628][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009704s)
+[2024.07.19-02.09.07:628][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.009779s)
+[2024.07.19-02.09.07:628][763]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.19-02.09.07:628][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.19-02.09.07:628][763]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.19-02.09.07:629][763]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2024.07.19-02.09.07:674][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.07.19-02.09.07:675][763]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.19-02.09.07:675][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.19-02.09.07:675][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.19-02.09.07:675][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.19-02.09.07:675][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.19-02.09.07:675][763]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.19-02.09.07:675][763]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.19-02.09.07:675][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.19-02.09.07:675][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.19-02.09.07:676][763]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.19-02.09.07:676][763]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.19-02.09.07:676][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.19-02.09.07:678][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.19-02.09.07:696][763]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.07.19-02.09.07:696][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.19-02.09.07:696][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.19-02.09.07:696][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.19-02.09.07:697][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.19-02.09.07:697][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.19-02.09.07:698][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.19-02.09.07:698][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.19-02.09.07:698][763]LogInit: FAudioDevice initialized.
+[2024.07.19-02.09.07:698][763]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2024.07.19-02.09.07:714][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.09.07:714][763]LogViewport: Scene viewport resized to 6224x3676, mode Windowed.
+[2024.07.19-02.09.07:798][763]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.19-02.09.07:801][763]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.09.07:801][763]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.09.07:801][763]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.19-12.09.07
+[2024.07.19-02.09.07:802][763]LogWorld: Bringing up level for play took: 0.003858
+[2024.07.19-02.09.07:804][763]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.07.19-02.09.07:804][763]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.19-02.09.07:805][763]Cmd: vr.PixelDensity 1.0
+[2024.07.19-02.09.07:805][763]vr.PixelDensity = "1"
+[2024.07.19-02.09.07:818][763]PIE: Server logged in
+[2024.07.19-02.09.07:827][763]PIE: Play in editor total start time 0.267 seconds.
+[2024.07.19-02.09.07:838][763]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.19-02.10.28:921][661]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.19-02.10.35:644][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.10.35:644][238]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.19-02.10.35:668][238]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.10.35:820][238]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.19-02.10.35:847][238]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.19-02.10.35:848][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.10.35:882][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.19-02.10.35:890][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.10.35:938][238]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.19-02.10.35:938][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.19-02.10.35:939][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.19-02.10.35:947][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.07.19-02.10.36:050][239]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.07.19-02.10.36:067][239]LogViewport: Scene viewport resized to 1069x749, mode Windowed.
+[2024.07.19-02.10.42:386][407]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.10.42:387][407]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon'
+[2024.07.19-02.11.15:110][272]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.13.15:366][305]BlueprintLog: New page: Compile BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.13.15:472][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.07.19-02.13.15:541][306]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.13.16:106][318]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.13.16:107][318]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer_TargetingCannon34C064F843C73A62AD8A018757EDD616.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.uasset'
+[2024.07.19-02.13.16:129][318]AssetCheck: New page: Asset Save: BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.13.16:129][318]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.13.17:698][361]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.19-02.13.17:706][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.19-02.13.17:706][361]PIE: New page: PIE session: VRTemplateMap (19 Jul 2024, 10:13:17 pm)
+[2024.07.19-02.13.17:706][361]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.13.17:717][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011048s)
+[2024.07.19-02.13.17:717][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.011147s)
+[2024.07.19-02.13.17:717][361]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.19-02.13.17:717][361]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.19-02.13.17:718][361]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.19-02.13.17:718][361]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2024.07.19-02.13.17:773][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.07.19-02.13.17:775][361]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.19-02.13.17:776][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.19-02.13.17:776][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.19-02.13.17:776][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.19-02.13.17:776][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.19-02.13.17:776][361]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.19-02.13.17:776][361]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.19-02.13.17:776][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.19-02.13.17:776][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.19-02.13.17:777][361]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.19-02.13.17:777][361]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.19-02.13.17:777][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.19-02.13.17:779][361]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.19-02.13.17:798][361]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.07.19-02.13.17:799][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.19-02.13.17:799][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.19-02.13.17:799][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.19-02.13.17:800][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.19-02.13.17:800][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.19-02.13.17:802][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.19-02.13.17:803][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.19-02.13.17:803][361]LogInit: FAudioDevice initialized.
+[2024.07.19-02.13.17:803][361]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2024.07.19-02.13.17:903][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.13.17:903][361]LogViewport: Scene viewport resized to 6224x3676, mode Windowed.
+[2024.07.19-02.13.18:000][361]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.19-02.13.18:003][361]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.13.18:004][361]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.13.18:004][361]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.19-12.13.18
+[2024.07.19-02.13.18:004][361]LogWorld: Bringing up level for play took: 0.004471
+[2024.07.19-02.13.18:007][361]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.07.19-02.13.18:007][361]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.19-02.13.18:009][361]Cmd: vr.PixelDensity 1.0
+[2024.07.19-02.13.18:009][361]vr.PixelDensity = "1"
+[2024.07.19-02.13.18:020][361]PIE: Server logged in
+[2024.07.19-02.13.18:025][361]PIE: Play in editor total start time 0.32 seconds.
+[2024.07.19-02.13.18:036][361]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.19-02.13.41:776][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.13.41:789][313]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.19-02.13.41:822][313]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.13.41:943][313]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.19-02.13.41:977][313]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.19-02.13.41:978][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.13.42:016][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.19-02.13.42:022][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.13.42:069][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.19-02.13.42:069][313]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.19-02.13.42:069][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.19-02.13.42:071][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.19-02.13.42:078][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.07.19-02.13.42:127][314]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.07.19-02.13.42:134][314]LogViewport: Scene viewport resized to 1069x749, mode Windowed.
+[2024.07.19-02.14.14:890][552]BlueprintLog: New page: Compile BP_ToyDispencer
+[2024.07.19-02.14.15:010][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.07.19-02.14.15:154][553]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.14.15:777][560]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer
+[2024.07.19-02.14.15:777][560]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencerCDA098D4444E8CA7A27B11A487F3B91C.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer.uasset'
+[2024.07.19-02.14.15:791][560]AssetCheck: New page: Asset Save: BP_ToyDispencer
+[2024.07.19-02.14.15:791][560]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer.BP_ToyDispencer
+[2024.07.19-02.14.17:341][582]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.19-02.14.17:350][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.19-02.14.17:350][582]PIE: New page: PIE session: VRTemplateMap (19 Jul 2024, 10:14:17 pm)
+[2024.07.19-02.14.17:350][582]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.14.17:361][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011012s)
+[2024.07.19-02.14.17:361][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.011114s)
+[2024.07.19-02.14.17:361][582]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.19-02.14.17:361][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.19-02.14.17:362][582]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.19-02.14.17:362][582]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2024.07.19-02.14.17:417][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.07.19-02.14.17:420][582]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.07.19-02.14.17:420][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.19-02.14.17:420][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.19-02.14.17:420][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.19-02.14.17:420][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.19-02.14.17:420][582]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.19-02.14.17:420][582]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.19-02.14.17:420][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.19-02.14.17:420][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.19-02.14.17:421][582]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.19-02.14.17:421][582]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.19-02.14.17:421][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.19-02.14.17:424][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.19-02.14.17:441][582]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.07.19-02.14.17:441][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.19-02.14.17:441][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.19-02.14.17:441][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.19-02.14.17:442][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.07.19-02.14.17:442][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.07.19-02.14.17:444][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.07.19-02.14.17:444][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.07.19-02.14.17:444][582]LogInit: FAudioDevice initialized.
+[2024.07.19-02.14.17:444][582]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2024.07.19-02.14.17:524][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.14.17:525][582]LogViewport: Scene viewport resized to 6224x3676, mode Windowed.
+[2024.07.19-02.14.17:612][582]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.19-02.14.17:614][582]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.14.17:615][582]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.14.17:615][582]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.19-12.14.17
+[2024.07.19-02.14.17:615][582]LogWorld: Bringing up level for play took: 0.003335
+[2024.07.19-02.14.17:617][582]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.07.19-02.14.17:617][582]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.19-02.14.17:619][582]Cmd: vr.PixelDensity 1.0
+[2024.07.19-02.14.17:619][582]vr.PixelDensity = "1"
+[2024.07.19-02.14.17:633][582]PIE: Server logged in
+[2024.07.19-02.14.17:642][582]PIE: Play in editor total start time 0.293 seconds.
+[2024.07.19-02.14.17:651][582]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.19-02.14.53:144][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.14.53:157][667]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.19-02.14.53:190][667]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.14.53:315][667]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.19-02.14.53:347][667]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.19-02.14.53:348][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.14.53:363][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.19-02.14.53:372][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.14.53:420][667]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.19-02.14.53:420][667]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.19-02.14.53:420][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.19-02.14.53:422][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.19-02.14.53:428][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.07.19-02.14.53:461][668]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.07.19-02.14.53:467][668]LogViewport: Scene viewport resized to 1069x749, mode Windowed.
+[2024.07.19-02.15.14:400][456]LogDerivedDataCache: C:/Users/jorda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.258 and deleted 0 file(s) with total size 0 MiB.
+[2024.07.19-02.15.16:224][525]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_108.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.15.16:226][525]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_108.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.15.16:227][525]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_125.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.15.16:279][526]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.15.24:452][822]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.15.43:619][502]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.15.45:230][563]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.15.51:977][812]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.15.57:703][ 30]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.16.08:538][428]BlueprintLog: New page: Compile TargetRetical
+[2024.07.19-02.16.08:624][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.07.19-02.16.08:632][428]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_120.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.08:634][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_120.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.08:636][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_137.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.08:643][428]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_122.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.08:645][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_122.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.08:646][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_139.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.08:697][429]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.16.09:188][442]LogSavePackage: Moving output files for package: /Game/MyContent/Mechanic_tests/TargetRetical
+[2024.07.19-02.16.09:188][442]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/TargetRetical492BCB5A45B3C9090C3B1695845BBB36.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/Mechanic_tests/TargetRetical.uasset'
+[2024.07.19-02.16.09:204][442]AssetCheck: New page: Asset Save: TargetRetical
+[2024.07.19-02.16.09:204][442]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Mechanic_tests/TargetRetical.TargetRetical
+[2024.07.19-02.16.15:832][714]LogEditorTransaction: Undo Add Component Nodes
+[2024.07.19-02.16.15:844][714]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_124.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.15:846][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_124.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.15:848][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_141.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.15:968][715]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.16.21:167][831]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_126.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.21:169][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_126.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.21:171][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_143.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.16.21:201][832]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.19.08:166][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.07.19-02.19.08:453][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2024.07.19-02.19.08:453][730]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/VRTemplateMap_Auto2CA495D4F4D85E6FC8D1E19AABE17D49A.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2024.07.19-02.19.08:461][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.343
+[2024.07.19-02.19.08:461][730]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.343
+[2024.07.19-02.19.08:461][730]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyContent/Mechanic_tests/TargetRetical] ([2] browsable assets)...
+[2024.07.19-02.19.08:473][730]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContent/Mechanic_tests/TargetRetical.TargetRetical]
+[2024.07.19-02.19.08:473][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Mechanic_tests/TargetRetical]
+[2024.07.19-02.19.08:476][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContent/Mechanic_tests/TargetRetical_Auto2
+[2024.07.19-02.19.08:476][730]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/TargetRetical_Auto2E04DCCBF41DB298FEC41A387B569D144.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/Autosaves/Game/MyContent/Mechanic_tests/TargetRetical_Auto2.uasset'
+[2024.07.19-02.19.08:477][730]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.07.19-02.19.52:144][213]BlueprintLog: New page: Compile TargetRetical
+[2024.07.19-02.19.52:212][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.07.19-02.19.52:215][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_145.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.19.52:218][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_128.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.19.52:221][213]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_128.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.19.52:227][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_147.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.19.52:230][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_130.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.19.52:232][213]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_130.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.19.52:287][214]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.19.52:750][250]LogSavePackage: Moving output files for package: /Game/MyContent/Mechanic_tests/TargetRetical
+[2024.07.19-02.19.52:751][250]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/TargetRetical7329160A48B459A63AB5CE98EA09006B.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/Mechanic_tests/TargetRetical.uasset'
+[2024.07.19-02.19.52:765][250]AssetCheck: New page: Asset Save: TargetRetical
+[2024.07.19-02.19.52:765][250]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Mechanic_tests/TargetRetical.TargetRetical
+[2024.07.19-02.19.56:646][639]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.19-02.19.56:653][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.19-02.19.56:653][639]PIE: New page: PIE session: VRTemplateMap (19 Jul 2024, 10:19:56 pm)
+[2024.07.19-02.19.56:697][639]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.19.56:706][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009105s)
+[2024.07.19-02.19.56:706][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.009223s)
+[2024.07.19-02.19.56:706][639]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.19-02.19.56:706][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.19-02.19.56:707][639]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.19-02.19.56:707][639]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2024.07.19-02.19.56:752][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.07.19-02.19.56:754][639]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.07.19-02.19.56:754][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.19-02.19.56:754][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.19-02.19.56:754][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.19-02.19.56:754][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.19-02.19.56:754][639]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.19-02.19.56:754][639]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.19-02.19.56:754][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.19-02.19.56:754][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.19-02.19.56:754][639]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.19-02.19.56:754][639]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.19-02.19.56:754][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.19-02.19.56:756][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.19-02.19.56:774][639]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.07.19-02.19.56:774][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.19-02.19.56:774][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.19-02.19.56:775][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.19-02.19.56:776][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.07.19-02.19.56:776][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.07.19-02.19.56:777][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.07.19-02.19.56:777][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.07.19-02.19.56:777][639]LogInit: FAudioDevice initialized.
+[2024.07.19-02.19.56:777][639]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2024.07.19-02.19.56:795][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.19.56:795][639]LogViewport: Scene viewport resized to 6224x3676, mode Windowed.
+[2024.07.19-02.19.56:871][639]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.19-02.19.56:874][639]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.19.56:874][639]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.19.56:874][639]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.19-12.19.56
+[2024.07.19-02.19.56:875][639]LogWorld: Bringing up level for play took: 0.003418
+[2024.07.19-02.19.56:877][639]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.07.19-02.19.56:877][639]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.19-02.19.56:878][639]Cmd: vr.PixelDensity 1.0
+[2024.07.19-02.19.56:878][639]vr.PixelDensity = "1"
+[2024.07.19-02.19.56:883][639]PIE: Server logged in
+[2024.07.19-02.19.56:885][639]PIE: Play in editor total start time 0.232 seconds.
+[2024.07.19-02.19.56:951][639]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.19-02.20.36:180][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.20.36:191][ 46]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.19-02.20.36:228][ 46]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.20.36:346][ 46]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.19-02.20.36:387][ 46]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.19-02.20.36:388][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.20.36:403][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.19-02.20.36:412][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.20.36:461][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.19-02.20.36:461][ 46]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.19-02.20.36:461][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.19-02.20.36:463][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.19-02.20.36:469][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.07.19-02.20.36:498][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.07.19-02.20.36:503][ 47]LogViewport: Scene viewport resized to 1069x749, mode Windowed.
+[2024.07.19-02.21.36:859][817]BlueprintLog: New page: Compile TargetRetical
+[2024.07.19-02.21.36:929][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.07.19-02.21.36:935][817]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_132.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.21.36:937][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_132.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.21.36:939][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_149.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.21.36:945][817]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_134.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.21.36:947][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_134.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.21.36:949][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_151.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.21.36:974][818]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.21.37:452][854]LogSavePackage: Moving output files for package: /Game/MyContent/Mechanic_tests/TargetRetical
+[2024.07.19-02.21.37:453][854]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/TargetRetical5E865E034D0A6A0746F6AD85F3F0FDD8.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/Mechanic_tests/TargetRetical.uasset'
+[2024.07.19-02.21.37:466][854]AssetCheck: New page: Asset Save: TargetRetical
+[2024.07.19-02.21.37:466][854]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Mechanic_tests/TargetRetical.TargetRetical
+[2024.07.19-02.21.39:980][ 87]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.19-02.21.39:987][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.19-02.21.39:987][ 87]PIE: New page: PIE session: VRTemplateMap (19 Jul 2024, 10:21:39 pm)
+[2024.07.19-02.21.40:007][ 87]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.21.40:016][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008953s)
+[2024.07.19-02.21.40:016][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.009069s)
+[2024.07.19-02.21.40:016][ 87]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.19-02.21.40:017][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.19-02.21.40:017][ 87]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.19-02.21.40:017][ 87]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2024.07.19-02.21.40:065][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.07.19-02.21.40:067][ 87]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.07.19-02.21.40:067][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.19-02.21.40:067][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.19-02.21.40:067][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.19-02.21.40:067][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.19-02.21.40:067][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.19-02.21.40:067][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.19-02.21.40:067][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.19-02.21.40:067][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.19-02.21.40:067][ 87]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.19-02.21.40:067][ 87]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.19-02.21.40:067][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.19-02.21.40:068][ 87]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.19-02.21.40:086][ 87]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.07.19-02.21.40:086][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.19-02.21.40:086][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.19-02.21.40:086][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.19-02.21.40:087][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.07.19-02.21.40:087][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.07.19-02.21.40:089][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.07.19-02.21.40:089][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.07.19-02.21.40:089][ 87]LogInit: FAudioDevice initialized.
+[2024.07.19-02.21.40:089][ 87]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRTemplateMap'.
+[2024.07.19-02.21.40:105][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.21.40:105][ 87]LogViewport: Scene viewport resized to 6224x3676, mode Windowed.
+[2024.07.19-02.21.40:203][ 87]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.19-02.21.40:205][ 87]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.21.40:205][ 87]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.21.40:206][ 87]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.19-12.21.40
+[2024.07.19-02.21.40:206][ 87]LogWorld: Bringing up level for play took: 0.003172
+[2024.07.19-02.21.40:208][ 87]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.07.19-02.21.40:209][ 87]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.19-02.21.40:210][ 87]Cmd: vr.PixelDensity 1.0
+[2024.07.19-02.21.40:210][ 87]vr.PixelDensity = "1"
+[2024.07.19-02.21.40:214][ 87]PIE: Server logged in
+[2024.07.19-02.21.40:216][ 87]PIE: Play in editor total start time 0.229 seconds.
+[2024.07.19-02.21.40:282][ 87]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.19-02.22.02:557][ 89]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.19-02.22.02:582][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.22.02:582][ 89]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.22.02:714][ 89]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.19-02.22.02:747][ 89]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.19-02.22.02:748][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.22.02:761][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.19-02.22.02:767][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.22.02:815][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.19-02.22.02:815][ 89]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.19-02.22.02:815][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.19-02.22.02:816][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.19-02.22.02:823][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.07.19-02.22.02:850][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.07.19-02.22.02:854][ 90]LogViewport: Scene viewport resized to 1069x749, mode Windowed.
+[2024.07.19-02.22.10:036][778]LogEditorTransaction: Undo Move Node
+[2024.07.19-02.22.10:040][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_153.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.10:044][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_136.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.10:046][778]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_136.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.10:153][779]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.22.10:657][785]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.07.19-02.22.10:667][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_155.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.10:669][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_138.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.10:672][785]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_138.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.10:713][786]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.22.11:175][821]LogEditorTransaction: Undo Move Node
+[2024.07.19-02.22.11:186][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_157.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.11:189][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_140.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.11:191][821]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_140.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.11:233][822]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.22.12:432][949]LogEditorTransaction: Redo Move Node
+[2024.07.19-02.22.12:444][949]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_159.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.12:446][949]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_142.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.12:448][949]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_142.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.12:489][950]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.22.12:681][971]LogEditorTransaction: Redo Straighten Connection(s)
+[2024.07.19-02.22.12:692][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_161.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.12:694][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_144.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.12:697][971]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_144.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.12:738][972]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.22.13:133][ 15]LogEditorTransaction: Redo Move Node
+[2024.07.19-02.22.13:144][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_163.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.13:146][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_146.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.13:148][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_146.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.13:190][ 16]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.22.21:094][802]BlueprintLog: New page: Compile TargetRetical
+[2024.07.19-02.22.21:164][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.07.19-02.22.21:169][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_165.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.21:171][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_148.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.21:174][802]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_148.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.21:179][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_167.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.21:182][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_150.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.21:184][802]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_TargetRetical_C_CHILDACTOR_150.Cylinder) Trying to register component with IsValid() == false. Aborting.
+[2024.07.19-02.22.21:211][803]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.22.21:585][830]LogSavePackage: Moving output files for package: /Game/MyContent/Mechanic_tests/TargetRetical
+[2024.07.19-02.22.21:585][830]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/TargetReticalDA467B19415AAA4E19186EA3F5387FC3.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/Mechanic_tests/TargetRetical.uasset'
+[2024.07.19-02.22.21:599][830]AssetCheck: New page: Asset Save: TargetRetical
+[2024.07.19-02.22.21:599][830]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Mechanic_tests/TargetRetical.TargetRetical
+[2024.07.19-02.22.23:509][  0]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.19-02.22.23:516][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.19-02.22.23:516][  0]PIE: New page: PIE session: VRTemplateMap (19 Jul 2024, 10:22:23 pm)
+[2024.07.19-02.22.23:547][  0]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.22.23:556][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009053s)
+[2024.07.19-02.22.23:556][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.009168s)
+[2024.07.19-02.22.23:556][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.19-02.22.23:556][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.19-02.22.23:557][  0]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.19-02.22.23:557][  0]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2024.07.19-02.22.23:603][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.19-02.22.23:605][  0]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.07.19-02.22.23:605][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.19-02.22.23:605][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.19-02.22.23:605][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.19-02.22.23:605][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.19-02.22.23:605][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.19-02.22.23:605][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.19-02.22.23:605][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.19-02.22.23:605][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.19-02.22.23:606][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.19-02.22.23:606][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.19-02.22.23:606][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.19-02.22.23:607][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.19-02.22.23:624][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.07.19-02.22.23:624][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.19-02.22.23:624][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.19-02.22.23:624][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.19-02.22.23:625][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.07.19-02.22.23:625][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.07.19-02.22.23:626][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.07.19-02.22.23:626][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.07.19-02.22.23:626][  0]LogInit: FAudioDevice initialized.
+[2024.07.19-02.22.23:626][  0]LogAudio: Display: Audio Device (ID: 13) registered with world 'VRTemplateMap'.
+[2024.07.19-02.22.23:643][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.22.23:643][  0]LogViewport: Scene viewport resized to 6224x3676, mode Windowed.
+[2024.07.19-02.22.23:737][  0]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.19-02.22.23:740][  0]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.22.23:740][  0]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.22.23:740][  0]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.19-12.22.23
+[2024.07.19-02.22.23:740][  0]LogWorld: Bringing up level for play took: 0.003297
+[2024.07.19-02.22.23:742][  0]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.07.19-02.22.23:743][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.19-02.22.23:744][  0]Cmd: vr.PixelDensity 1.0
+[2024.07.19-02.22.23:744][  0]vr.PixelDensity = "1"
+[2024.07.19-02.22.23:748][  0]PIE: Server logged in
+[2024.07.19-02.22.23:750][  0]PIE: Play in editor total start time 0.234 seconds.
+[2024.07.19-02.22.23:787][  0]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.19-02.22.50:669][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.22.50:682][342]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.19-02.22.50:717][342]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.22.50:848][342]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.19-02.22.50:887][342]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.19-02.22.50:888][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.22.50:905][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.19-02.22.50:911][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.22.50:958][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.19-02.22.50:958][342]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.19-02.22.50:958][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.19-02.22.50:959][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.19-02.22.50:966][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.07.19-02.22.50:994][343]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.07.19-02.22.50:999][343]LogViewport: Scene viewport resized to 1069x749, mode Windowed.
+[2024.07.19-02.23.57:538][  0]BlueprintLog: New page: Compile BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.23.57:614][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.07.19-02.23.57:676][  1]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.07.19-02.23.58:257][ 43]LogSavePackage: Moving output files for package: /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.23.58:257][ 43]LogSavePackage: Moving 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Saved/BP_ToyDispencer_TargetingCannonC29D711347CB827FE388FFAC52EA07A0.tmp' to 'D:/Game Projects/Unreal/Project_VR-Experiments/Project_VR-Experiments/VR_Experiments/Content/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.uasset'
+[2024.07.19-02.23.58:271][ 43]AssetCheck: New page: Asset Save: BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.23.58:271][ 43]LogContentValidation: Display: Validating Blueprint /Game/MyContent/2_Toys/BP_ToyDispencer_TargetingCannon.BP_ToyDispencer_TargetingCannon
+[2024.07.19-02.23.59:909][170]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.19-02.23.59:916][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.19-02.23.59:916][170]PIE: New page: PIE session: VRTemplateMap (19 Jul 2024, 10:23:59 pm)
+[2024.07.19-02.23.59:937][170]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.23.59:946][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009124s)
+[2024.07.19-02.23.59:946][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.009245s)
+[2024.07.19-02.23.59:946][170]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.07.19-02.23.59:946][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.19-02.23.59:947][170]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.07.19-02.23.59:947][170]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2024.07.19-02.23.59:994][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.07.19-02.23.59:995][170]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.07.19-02.23.59:995][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.19-02.23.59:995][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.19-02.23.59:995][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.19-02.23.59:995][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.19-02.23.59:995][170]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.19-02.23.59:995][170]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.19-02.23.59:995][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.19-02.23.59:995][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.19-02.23.59:996][170]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.07.19-02.23.59:996][170]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.07.19-02.23.59:996][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.19-02.23.59:997][170]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.19-02.24.00:015][170]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Flip 5 Stereo)
+[2024.07.19-02.24.00:015][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.19-02.24.00:015][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.19-02.24.00:015][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.19-02.24.00:016][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.07.19-02.24.00:016][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.07.19-02.24.00:018][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.07.19-02.24.00:018][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.07.19-02.24.00:018][170]LogInit: FAudioDevice initialized.
+[2024.07.19-02.24.00:018][170]LogAudio: Display: Audio Device (ID: 14) registered with world 'VRTemplateMap'.
+[2024.07.19-02.24.00:036][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.24.00:037][170]LogViewport: Scene viewport resized to 6224x3676, mode Windowed.
+[2024.07.19-02.24.00:105][170]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.19-02.24.00:108][170]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.24.00:108][170]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2024.07.19-02.24.00:108][170]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.07.19-12.24.00
+[2024.07.19-02.24.00:108][170]LogWorld: Bringing up level for play took: 0.003187
+[2024.07.19-02.24.00:110][170]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.07.19-02.24.00:111][170]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.07.19-02.24.00:112][170]Cmd: vr.PixelDensity 1.0
+[2024.07.19-02.24.00:112][170]vr.PixelDensity = "1"
+[2024.07.19-02.24.00:118][170]PIE: Server logged in
+[2024.07.19-02.24.00:122][170]PIE: Play in editor total start time 0.207 seconds.
+[2024.07.19-02.24.00:181][170]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.07.19-02.24.18:826][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.19-02.24.18:838][848]LogViewport: Scene viewport resized to 3840x2120, mode Windowed.
+[2024.07.19-02.24.18:865][848]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.07.19-02.24.18:981][848]LogSlate: Window 'VR_Experiments Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.3-20979098+++UE5+Release-5.0, Driver: vive_eyes, Serial: 5A2BHAM00897, HMD Device: HTC vive_cosmos, Driver version: TrackedProp_UnknownProperty' being destroyed
+[2024.07.19-02.24.19:007][848]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.19-02.24.19:008][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.24.19:026][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.19-02.24.19:031][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.19-02.24.19:076][848]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.19-02.24.19:077][848]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.07.19-02.24.19:077][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.19-02.24.19:079][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.19-02.24.19:087][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.07.19-02.24.19:136][849]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.07.19-02.24.19:142][849]LogViewport: Scene viewport resized to 1069x749, mode Windowed.
